@@ -34,6 +34,14 @@ NMT is a type of machine translation that relies upon neural network models (bas
 Between 2016 and 2017, more data was created than in the whole of human history prior[3]. Since 2013, companies like Google and Microsoft started testing and developing the use of neural networks.  [Neural networks](https://www.youtube.com/watch?v=yu9gLQtPySQ) are statistical learning models, that were first used in speech and image recognition technology. Neural networks enable MT engines to train themselves, through a process similar to the way the brain works: through trial and error (which is called deep learning).
 
 # DATASETS
+- [ACL 2014 NINTH WORKSHOP ON STATISTICAL MACHINE TRANSLATION](https://www.statmt.org/wmt14/translation-task.html)
+- [Bilingual Sentence Pairs](http://www.manythings.org/anki/)
+- [Indic Languages Multilingual Parallel Corpus Dataset](https://github.com/AI4Bharat/indicnlp_corpus)
+- [IIT Bombay English-Hindi Corpus](https://www.cfilt.iitb.ac.in/iitb_parallel/)
+- [Parallel Corpus Filtering for Low-Resource Conditions](https://www.statmt.org/wmt19/parallel-corpus-filtering.html)
+- [THIRD CONFERENCE ON MACHINE TRANSLATION (WMT18)](https://www.statmt.org/wmt18/parallel-corpus-filtering.html)
+- [The FLORES-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://github.com/facebookresearch/flores)
+- [WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia](https://github.com/facebookresearch/LASER/tree/main/tasks/WikiMatrix)
 
 
 # PAPERS
