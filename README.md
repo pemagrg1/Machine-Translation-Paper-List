@@ -15,9 +15,9 @@ There are **four types** of machine translation[2]–
 
 ### Statistical Machine Translation
 
-It works by alluding to statistical models that depend on the investigation of huge volumes of bilingual content. It expects to decide the correspondence between a word from the source language and a word from the objective language. ***A genuine illustration of this is Google Translate. ***
+It works by alluding to statistical models that depend on the investigation of huge volumes of bilingual content. It expects to decide the correspondence between a word from the source language and a word from the objective language. ***A genuine illustration of this is Google Translate.***
 
-Presently, [SMT](https://kantanmtblog.com/2019/04/02/a-short-introduction-to-the-statistical-machine-translation-model/) is extraordinary for basic translation, however its most noteworthy disadvantage is that it doesn't factor in context, which implies translation can regularly be wrong or you can say, don't expect great quality translation. There are several types of statistical-based machine translation models which are: ***Hierarchical phrase-based translation, Syntax-based translation, Phrase-based translation, Word-based translation. ***
+Presently, [SMT](https://kantanmtblog.com/2019/04/02/a-short-introduction-to-the-statistical-machine-translation-model/) is extraordinary for basic translation, however its most noteworthy disadvantage is that it doesn't factor in context, which implies translation can regularly be wrong or you can say, don't expect great quality translation. There are several types of statistical-based machine translation models which are: ***Hierarchical phrase-based translation, Syntax-based translation, Phrase-based translation, Word-based translation.***
 
 ### Rule-based Machine Translation
 
