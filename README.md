@@ -70,3 +70,22 @@ Between 2016 and 2017, more data was created than in the whole of human history 
 [12] Xiao Pan, Mingxuan Wang, Liwei Wu, Lei Li. 2021. **Contrastive Learning for Many-to-many Multilingual Neural Machine Translation**
 
 [13] Deng Cai, Yan Wang, Huayang Li, Wai Lam, Lemao Liu. 2021. **Neural Machine Translation with Monolingual Translation Memory**
+
+
+# Nepali Machine Translation
+[1-15 sources from https://github.com/divyamani1/Nepali-NLP-Progress]
+1. Low Resource English to Nepali Sentence Translation Using RNN—Long Short-Term Memory with Attention (Nemkul K. & Shakya S., Mar 2021)
+2. English to Nepali Sentence Translation Using Recurrent Neural Network with Attention (Nemkul K. & Shakya S., Feb 2021)
+3. Efforts in the Development of an Augmented English–Nepali Parallel Corpus (Duwal S. & Bal B.K., Dec 2019)
+4. The FLORES Evaluation Datasets for Low-Resource Machine Translation: Nepali–English and Sinhala–English (Guzman et al. (2019))
+5. Neural Machine Translation: Hindi ⇔ Nepali (Laskar et al., 2019)
+6. A Comparative Study of SMT and NMT: Case Study of English-Nepali Language Pair (Bal, Bal Krishna and Acharya, Praveen 2018)
+7. English to Nepali Statistical Machine Translation System (Paul et. al., 2018)
+8. Expansion of the First Hindi-Nepali Word-Net based BiLingual Dictionary and the advancement of the HumanMachine Interface (Chakraborty et. al., Dec 2011)
+9. Development of a Nepali-English MT system using the Apertium MT platform
+10. An Approach Towards The Construction Of The First Hindi-Nepali Word-Net Based Bi-Lingual Dictionary And The Challenges Handled (Chakraborty et al., 2011)
+11. Experiences in building the Nepali WordNet - insights and challenges (Chakraborty et. al., 2009)
+12. Rule based machine translation system in the context of Nepali text to English text (Shrestha, H. K., 2008)
+13. Handling Honorification in Dobhase: Online English-to-Nepali Machine Translation System (Keshari et al., 2007)
+14. Generation of Interlinear form of Nepali text with target language as English (Shrestha et al., 2005)
+15. UNL Nepali Deconverter (Keshari et al., 2005)
